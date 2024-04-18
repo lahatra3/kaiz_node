@@ -1,0 +1,24 @@
+{
+  "name": "ollama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "type": "commonjs",
+  "bin": {
+    "kaiz": "./dist/main.js"
+  },
+  "scripts": {
+    "start": "node dist/main.js",
+    "build": "npx tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "ollama": "^0.5.0"
+  }
+}
