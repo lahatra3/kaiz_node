@@ -33,3 +33,6 @@
         $ ~ docker-compose up -d
         $ ~ docker exec -it ollama ollama pull llama2
         ```
+
+Now ***kaiz*** CLI could run... 
+Happy coding 😊 ...!
