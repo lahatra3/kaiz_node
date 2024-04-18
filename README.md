@@ -31,7 +31,7 @@
         ```Bash
         $ ~ cd local
         $ ~ docker-compose up -d
-        $ ~ docker exec -it ollama ollama pull llama2
+        $ ~ docker exec -it ollama_app ollama pull llama2
         ```
 
 Now ***kaiz*** CLI could run... 
