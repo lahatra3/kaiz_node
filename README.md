@@ -17,7 +17,7 @@
     
     - ***Install dependancies and build***
         ```Bash
-        $ ~ cd kaiz
+        $ ~ cd kaiz_node
         $ ~ npm i
         $ ~ npm run build
         ```
