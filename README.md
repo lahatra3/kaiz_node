@@ -12,7 +12,7 @@
 
     - ***Download source code***
         ```Bash
-        $ ~ git clone https://github.com/lahatra3/kaiz.git
+        $ ~ git clone https://github.com/lahatra3/kaiz_node.git
         ```
     
     - ***Install dependancies and build***
