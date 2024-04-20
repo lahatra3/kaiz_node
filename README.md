@@ -2,7 +2,7 @@
 
 - [ ] ***Description***
 
-***KAIZ*** is an IA chatbot in command line interface (CLI). It use `llma2` (as model) running on `ollama`.
+***KAIZ*** is an IA chatbot in command line interface (CLI). It use `kaiz` (`llama3 customized model`) running on `ollama`.
 
 - [ ] ***Dependancies***
     - [Nodejs v20.x](https://nodejs.org)
@@ -31,7 +31,7 @@
         ```Bash
         $ ~ cd local
         $ ~ docker-compose up -d
-        $ ~ docker exec -it ollama_app ollama pull llama2
+        $ ~ docker exec -it ollama_app bash /root/run.sh
         ```
 
 Now ***kaiz*** CLI could run... 

@@ -9,7 +9,7 @@ if (!prompt.length) process.exit(0);
 
 (async() => {
     const response = await ollama.chat({
-        model: "llama2",
+        model: "kaiz",
         messages: [
             { role: 'user', content: prompt }
         ],
