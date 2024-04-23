@@ -34,5 +34,11 @@
         $ ~ docker exec -it ollama_app bash /root/run.sh
         ```
 
-Now ***kaiz*** CLI could run... 
+
+Now ***kaiz*** CLI could run...
+
+    ```Bash
+    $ ~ kaiz "Hello"
+    ```
+    
 Happy coding 😊 ...!
